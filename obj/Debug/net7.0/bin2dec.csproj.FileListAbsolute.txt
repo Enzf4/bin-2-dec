@@ -1,0 +1,15 @@
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\bin\Debug\net7.0\bin2dec.exe
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\bin\Debug\net7.0\bin2dec.deps.json
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\bin\Debug\net7.0\bin2dec.runtimeconfig.json
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\bin\Debug\net7.0\bin2dec.dll
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\bin\Debug\net7.0\bin2dec.pdb
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.csproj.AssemblyReference.cache
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.AssemblyInfoInputs.cache
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.AssemblyInfo.cs
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.csproj.CoreCompileInputs.cache
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.dll
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\refint\bin2dec.dll
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.pdb
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\bin2dec.genruntimeconfig.cache
+C:\Users\enzof\OneDrive\Área de Trabalho\bin2dec\obj\Debug\net7.0\ref\bin2dec.dll
